@@ -30,7 +30,7 @@ class App extends React.Component {
   //we want to display the the data in this section
   //to provide access to the data we add it to a state
   render() {
-
+    //destructuring advice app
     const { advice } = this.state
 
     return (
